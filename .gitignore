@@ -1,0 +1,14 @@
+# Compiled Java code
+*.class
+
+# Build directories
+target/
+build/
+bin/
+
+# IDE files
+.idea/
+*.iml
+.classpath
+.project
+.settings/sss
